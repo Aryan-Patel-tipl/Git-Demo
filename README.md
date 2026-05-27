@@ -1,2 +1,2 @@
 # Git-Demo
-Author - Aryan Patel
+Author - Aryan Patel (Om)
